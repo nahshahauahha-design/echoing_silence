@@ -1,0 +1,23 @@
+{
+ "itemGroup.echoing_silence": "The Echoing Silence",
+ "effect.echoing_silence.calm": "Calma",
+ "entity.echoing_silence.observer": "L'Osservatore",
+ "block.echoing_silence.ghost_block": "Ghost Block",
+ "block.echoing_silence.whispering_wall": "Muro Sussurrante",
+ "block.echoing_silence.echo_door": "Porta dell'Eco",
+ "item.echoing_silence.brass_lantern": "Lanterna d'Ottone Incisa",
+ "item.echoing_silence.tallow": "Grasso Animale",
+ "item.echoing_silence.predecessor_diary": "Diario del Predecessore",
+ "item.echoing_silence.bone_whistle": "Fischietto d'Osso",
+ "item.echoing_silence.calm_tea": "Tisana di Erbe Calme",
+ "item.echoing_silence.warm_soup": "Zuppa Calda",
+ "item.echoing_silence.hearth_bread": "Pane del Focolare",
+ "item.echoing_silence.consecrated_salt": "Sale Consacrato",
+ "item.echoing_silence.silence_amulet": "Amuleto del Silenzio",
+ "item.echoing_silence.selenite_mirror": "Specchio di Selenite",
+ "item.echoing_silence.full_mirror": "Specchio Intero",
+ "item.echoing_silence.echo_fragment": "Frammento dell'Eco",
+ "item.echoing_silence.echo_lantern": "Lanterna dell'Eco",
+ "item.echoing_silence.shadow_cape": "Cappa dell'Ombra",
+ "item.echoing_silence.silence_crown": "Corona di Silenzio"
+}

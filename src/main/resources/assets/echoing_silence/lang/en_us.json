@@ -1,0 +1,23 @@
+{
+ "itemGroup.echoing_silence": "The Echoing Silence",
+ "effect.echoing_silence.calm": "Calm",
+ "entity.echoing_silence.observer": "The Observer",
+ "block.echoing_silence.ghost_block": "Ghost Block",
+ "block.echoing_silence.whispering_wall": "Whispering Wall",
+ "block.echoing_silence.echo_door": "Echo Door",
+ "item.echoing_silence.brass_lantern": "Engraved Brass Lantern",
+ "item.echoing_silence.tallow": "Tallow",
+ "item.echoing_silence.predecessor_diary": "Predecessor's Diary",
+ "item.echoing_silence.bone_whistle": "Bone Whistle",
+ "item.echoing_silence.calm_tea": "Calming Herbal Tea",
+ "item.echoing_silence.warm_soup": "Warm Soup",
+ "item.echoing_silence.hearth_bread": "Hearth Bread",
+ "item.echoing_silence.consecrated_salt": "Consecrated Salt",
+ "item.echoing_silence.silence_amulet": "Amulet of Silence",
+ "item.echoing_silence.selenite_mirror": "Selenite Mirror",
+ "item.echoing_silence.full_mirror": "Whole Mirror",
+ "item.echoing_silence.echo_fragment": "Echo Fragment",
+ "item.echoing_silence.echo_lantern": "Echo Lantern",
+ "item.echoing_silence.shadow_cape": "Shadow Cloak",
+ "item.echoing_silence.silence_crown": "Crown of Silence"
+}

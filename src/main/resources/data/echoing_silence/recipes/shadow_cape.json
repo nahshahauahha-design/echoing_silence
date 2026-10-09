@@ -1,0 +1,1 @@
+{"type": "minecraft:crafting_shaped", "pattern": ["L L", "LWL", "LLL"], "key": {"L": {"item": "minecraft:leather"}, "W": {"item": "minecraft:black_wool"}}, "result": {"item": "echoing_silence:shadow_cape", "count": 1}}

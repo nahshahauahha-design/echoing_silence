@@ -1,0 +1,1 @@
+{"type": "minecraft:crafting_shaped", "pattern": ["CCC", "CTC", "CCC"], "key": {"C": {"item": "minecraft:copper_ingot"}, "T": {"item": "minecraft:torch"}}, "result": {"item": "echoing_silence:brass_lantern", "count": 1}}
